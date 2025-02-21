@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Helekin\\Documents\\LP-02-udemy-wpf-csharp\\wpf-02-contacts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68219D01-3695-4652-90B4-BF6BFB1C8484}|wpf-02-contacts\\wpf-02-contacts.csproj|c:\\users\\helekin\\documents\\lp-02-udemy-wpf-csharp\\wpf-02-contacts\\wpf-02-contacts\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68219D01-3695-4652-90B4-BF6BFB1C8484}|wpf-02-contacts\\wpf-02-contacts.csproj|solutionrelative:wpf-02-contacts\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68219D01-3695-4652-90B4-BF6BFB1C8484}|wpf-02-contacts\\wpf-02-contacts.csproj|c:\\users\\helekin\\documents\\lp-02-udemy-wpf-csharp\\wpf-02-contacts\\wpf-02-contacts\\newcontactwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68219D01-3695-4652-90B4-BF6BFB1C8484}|wpf-02-contacts\\wpf-02-contacts.csproj|solutionrelative:wpf-02-contacts\\newcontactwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68219D01-3695-4652-90B4-BF6BFB1C8484}|wpf-02-contacts\\wpf-02-contacts.csproj|c:\\users\\helekin\\documents\\lp-02-udemy-wpf-csharp\\wpf-02-contacts\\wpf-02-contacts\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68219D01-3695-4652-90B4-BF6BFB1C8484}|wpf-02-contacts\\wpf-02-contacts.csproj|solutionrelative:wpf-02-contacts\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68219D01-3695-4652-90B4-BF6BFB1C8484}|wpf-02-contacts\\wpf-02-contacts.csproj|c:\\users\\helekin\\documents\\lp-02-udemy-wpf-csharp\\wpf-02-contacts\\wpf-02-contacts\\newcontactwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{68219D01-3695-4652-90B4-BF6BFB1C8484}|wpf-02-contacts\\wpf-02-contacts.csproj|solutionrelative:wpf-02-contacts\\newcontactwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68219D01-3695-4652-90B4-BF6BFB1C8484}|wpf-02-contacts\\wpf-02-contacts.csproj|c:\\users\\helekin\\documents\\lp-02-udemy-wpf-csharp\\wpf-02-contacts\\wpf-02-contacts\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{68219D01-3695-4652-90B4-BF6BFB1C8484}|wpf-02-contacts\\wpf-02-contacts.csproj|solutionrelative:wpf-02-contacts\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Helekin\\Documents\\LP-02-udemy-wpf-csharp\\wpf-02-contacts\\wpf-02-contacts\\App.xaml.cs",
+              "RelativeDocumentMoniker": "wpf-02-contacts\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Helekin\\Documents\\LP-02-udemy-wpf-csharp\\wpf-02-contacts\\wpf-02-contacts\\App.xaml.cs",
+              "RelativeToolTip": "wpf-02-contacts\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T00:57:47.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewContactWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Helekin\\Documents\\LP-02-udemy-wpf-csharp\\wpf-02-contacts\\wpf-02-contacts\\NewContactWindow.xaml.cs",
+              "RelativeDocumentMoniker": "wpf-02-contacts\\NewContactWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Helekin\\Documents\\LP-02-udemy-wpf-csharp\\wpf-02-contacts\\wpf-02-contacts\\NewContactWindow.xaml.cs",
+              "RelativeToolTip": "wpf-02-contacts\\NewContactWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T21:25:07.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewContactWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Helekin\\Documents\\LP-02-udemy-wpf-csharp\\wpf-02-contacts\\wpf-02-contacts\\NewContactWindow.xaml",
+              "RelativeDocumentMoniker": "wpf-02-contacts\\NewContactWindow.xaml",
+              "ToolTip": "C:\\Users\\Helekin\\Documents\\LP-02-udemy-wpf-csharp\\wpf-02-contacts\\wpf-02-contacts\\NewContactWindow.xaml",
+              "RelativeToolTip": "wpf-02-contacts\\NewContactWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T21:20:45.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Helekin\\Documents\\LP-02-udemy-wpf-csharp\\wpf-02-contacts\\wpf-02-contacts\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "wpf-02-contacts\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Helekin\\Documents\\LP-02-udemy-wpf-csharp\\wpf-02-contacts\\wpf-02-contacts\\MainWindow.xaml",
+              "RelativeToolTip": "wpf-02-contacts\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T21:17:31.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Helekin\\Documents\\LP-02-udemy-wpf-csharp\\wpf-02-contacts\\wpf-02-contacts\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "wpf-02-contacts\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Helekin\\Documents\\LP-02-udemy-wpf-csharp\\wpf-02-contacts\\wpf-02-contacts\\MainWindow.xaml.cs",
+              "RelativeToolTip": "wpf-02-contacts\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIAzwCcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T21:17:26.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
