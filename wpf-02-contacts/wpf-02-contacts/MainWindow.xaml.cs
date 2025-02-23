@@ -1,13 +1,5 @@
-﻿using System.Text;
-using System.Windows;
+﻿using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 using wpf_02_contacts.Classes;
 
 namespace wpf_02_contacts;
@@ -17,9 +9,12 @@ namespace wpf_02_contacts;
 /// </summary>
 public partial class MainWindow : Window
 {
+    List<Contact> contacts;
     public MainWindow()
     {
         InitializeComponent();
+
+        contacts = new List<Contact>();
 
         ReadDatabase();
     }
@@ -34,10 +29,24 @@ public partial class MainWindow : Window
 
     void ReadDatabase()
     {
-        using(SQLite.SQLiteConnection conn=new SQLite.SQLiteConnection(App.databasePath))
+        using (SQLite.SQLiteConnection conn = new SQLite.SQLiteConnection(App.databasePath))
         {
             conn.CreateTable<Contact>();
-            var contact = conn.Table<Contact>().ToList();
+            contacts = (conn.Table<Contact>().ToList()).OrderBy(contact => contact.Name).ToList();
         }
+
+        if (contacts != null)
+        {
+            contactsListView.ItemsSource = contacts;
+        }
+    }
+
+    private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+    {
+        TextBox searchTextBox = sender as TextBox;
+
+        var filteredList = contacts.Where(contact => contact.Name.ToLower().Contains(searchTextBox.Text.ToLower())).ToList();
+
+        contactsListView.ItemsSource = filteredList;
     }
 }
